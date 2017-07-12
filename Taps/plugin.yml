@@ -1,0 +1,6 @@
+main: me.tomerkenis.taps.Main
+name: Taps
+author: UniversalJoker
+version: 1.0
+commands:
+  taps:
